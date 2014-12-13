@@ -1,13 +1,15 @@
-<h1>SysInfoLogger - http://marcus.crisisresponseunit.com/</h1>
+<h4>SysInfoLogger - http://marcus.crisisresponseunit.com/</h4>
 
 <h3>Files that come with SysInfoLogger:</h3>
 
-  res/pslist.exe        Sysinternals pslist.exe: http://technet.microsoft.com/en-us/sysinternals/bb896682
-  res/psloggedon.exe    Sysinternals psloggedon.exe: http://technet.microsoft.com/en-us/sysinternals/bb897545
-  res/SCLIST.EXE        Microsoft Service Listing Application (no URL)
-  res/SHOWGRPS.EXE      Microsoft Windows NT Resource Kit: http://support.microsoft.com/kb/158388
-  README.md 	          (this file)
-  SysInfoLogger.bat     Main Application Script: https://github.com/marcusteaton/sysinfologger
+```
+res/pslist.exe        Sysinternals pslist.exe: http://technet.microsoft.com/en-us/sysinternals/bb896682
+res/psloggedon.exe    Sysinternals psloggedon.exe: http://technet.microsoft.com/en-us/sysinternals/bb897545
+res/SCLIST.EXE        Microsoft Service Listing Application (no URL)
+res/SHOWGRPS.EXE      Microsoft Windows NT Resource Kit: http://support.microsoft.com/kb/158388
+README.md 	          (this file)
+SysInfoLogger.bat     Main Application Script: https://github.com/marcusteaton/sysinfologger
+```
 
 <h4>SysInfoLogger.bat and this README are licensed under the GNU GPL v3.
 
@@ -36,8 +38,8 @@ I did not add report archiving functionality as that would add to the overall di
 <li>C:\Windows\</li>
 <li>C:\Windows\System32\</li>
 </ul>
-Also, double check that the programs that are run are present in those paths.
-
-Alternatively, you can copy each EXE from your Windows and System32 directory and place in in the same directory as SysInfoLogger.bat.</li>
-
+<li>Also, double check that the programs that are run are present in those paths.</li>
+<li>Alternatively, you can copy each EXE from your Windows and System32 directory and place in in the same directory as SysInfoLogger.bat.</li>
+</ul>
+</ul>
 --END OF FILE--
